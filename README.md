@@ -1,4 +1,9 @@
-## Hi there 👋
+##  # Olá, sou o Idel! 
+
+- 🚀 A iniciar a minha jornada no desenvolvimento de software e código aberto.
+- 📚 Atualmente a aprender lógica de programação, arquitetura de código e ferramentas de desenvolvimento.
+- 🎯 O meu objetivo é construir projetos úteis e contribuir para o ecossistema open-source.
+
 
 <!--
 **idelconcurso-create/idelconcurso-create** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
